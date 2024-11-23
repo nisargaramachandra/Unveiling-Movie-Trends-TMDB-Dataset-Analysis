@@ -42,7 +42,7 @@ The cleaned dataset contains **6 columns** and **25,551 rows** after preprocessi
 1. Clone this repository:  
    ```bash  
    git clone https://github.com/nisargaramachandra/Unveiling-Movie-Trends-TMDB-Dataset-Analysis.git
-   cd movies-dataset-analysis  
+   cd Unveiling-Movie-Trends-TMDB-Dataset-Analysis  
    ```  
 
 2. Install dependencies:  
